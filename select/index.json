@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "R-Evolve",
+  "base_artist": "Thirty Seconds To Mars",
+  "createdAt": "2026-01-14T03:40:23.317983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "R-Evolve",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/01_R-Evolve_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "R-evolve",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/02_R-evolve_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "R‐Evolve",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/03_R‐Evolve_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "R-Evolve (instrumental)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/04_R-Evolve_(instrumental)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "R-Evolve",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/05_R-Evolve_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "R-Evolve",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/06_R-Evolve_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "R‐Evolve",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/07_R‐Evolve_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "R-Evolve (instrumental)",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/08_R-Evolve_(instrumental)_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "R-Evolve",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/09_R-Evolve_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "R-Evolve (instrumental)",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/10_R-Evolve_(instrumental)_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "R-Evolve",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/11_R-Evolve_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "R-Evolve (Instrumental)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/12_R-Evolve_(Instrumental)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "R-Evolve",
+      "artist": "THIRTY SECONDS TO MARS",
+      "has_synced": true,
+      "path": "select/13_R-Evolve_THIRTY_SECONDS_TO_MARS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "R-Evolve",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": false,
+      "path": "select/pl_01_R-Evolve_Thirty_Seconds_to_Mars.txt"
+    }
+  ]
+}
