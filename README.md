@@ -1,0 +1,35 @@
+# Thirty Seconds To Mars – R-Evolve
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.62] A revolution has begun today for me inside
+[00:28.42] The ultimate defence is to pretend
+[00:35.68] Revolve around yourself just like an ordinary man
+[00:42.76] The only other option to forget
+[00:58.26] 
+[00:49.74] Does it feel like we've never been alive?
+[00:56.56] Does it seem like it's only just begun?
+[01:16.06] 
+[01:11.02] To find yourself just look inside the wreckage of your past
+[01:18.46] To lose it all you have to do is lie
+[01:25.28] The policy is set and we are never turning back
+[01:32.46] It's time for execution, time to execute
+[01:39.75] Time for execution, time to execute
+[01:57.25] 
+[01:46.03] Does it feel like we've never been alive?
+[01:53.34] Does it seem like it's only just begun?
+[02:00.90] Does it feel like we've never been alive inside?
+[02:07.68] Does it seem like it's only just begun?
+[02:13.14] It's only just begun
+[02:23.14] 
+[02:14.99] The evolution is coming, a revolution has begun
+[02:26.33] (It has begun!)
+[02:29.19] The evolution is coming, a revolution has, yeah
+[02:52.69] 
+[03:11.71] The evolution is coming, a revolution has begun
+[03:23.36] (It has begun!)
+[03:26.15] The evolution is coming, a revolution has, yeah
+[03:49.65] 
+[03:42.26] (Revolution...)
+```
